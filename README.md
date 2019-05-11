@@ -6,6 +6,7 @@ how to install this tools :
 
 
 apt-get install tor
+
 apt-get install privoxy
 
 git clone https://github.com/dede-kuntoro/AutoIP.git
